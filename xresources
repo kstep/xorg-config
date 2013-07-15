@@ -1,5 +1,5 @@
-*.faceName: xft:DejaVu Sans Mono:pixelsize=15:antialias=true
-URxvt.font: xft:DejaVu Sans Mono:pixelsize=15:antialias=true
+*.faceName: xft:DejaVu Sans Mono:pixelsize=16:antialias=true
+URxvt.font: xft:DejaVu Sans Mono:pixelsize=16:antialias=true
 
 *.alwaysBoldMode: false
 XTerm.termName: xterm-256color

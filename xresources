@@ -12,6 +12,7 @@ XTerm.termName: xterm-256color
 XTerm*charClass: 33:48,36-47:48,58-59:48,61:48,63-64:48,95:48,126:48
 ! Alt-key sends <Esc><key>
 XTerm*metaSendsEscape: true
+XTerm*selectToClipboard: true
 ! Text highlighting puts data into both PRIMARY and CLIPBOARD buffers
 !XTerm*VT100.translations: #override <Btn1Up>: select-end(PRIMARY, CLIPBOARD, CUT_BUFFER0)
 XTerm*VT100*translations: #override Meta <Btn1Up>: exec-formatted("xdg-open '%t'", PRIMARY)

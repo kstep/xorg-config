@@ -26,4 +26,4 @@ Xft.hintstyle: hintfull
 Xft.rgba: rgb
 
 !#include ".config/xorg/themes/default.xres"
-#include ".config/xorg/themes/solarized.xres"
+#include "./themes/solarized.xres"

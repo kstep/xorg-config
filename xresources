@@ -1,5 +1,6 @@
-*.faceName: xft:DejaVu Sans Mono:pixelsize=16:antialias=true
+!*.faceName: xft:DejaVu Sans Mono:pixelsize=16:antialias=true
 !*.faceName: xft:Andale Mono:pixelsize=17:antialias=true
+*.faceName: xft:DejaVu Sans Mono for Powerline:pixelsize=16:antialias=true
 
 !*.faceName: xft:Consolas:pixelsize=16:antialias=true
 !*.faceName: xft:Lucida Sans Unicode:pixelsize=16:antialias=true

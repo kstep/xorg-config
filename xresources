@@ -28,3 +28,7 @@ Xft.rgba: rgb
 
 !#include ".config/xorg/themes/default.xres"
 #include "./themes/solarized.xres"
+
+! solarized color fix
+#define hack_color #1c1c1c
+*color8: hack_color

@@ -1,0 +1,13 @@
+include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+<Multi_key> <A> <A> : "∀" U2200 # "For all" sign
+<Multi_key> <E> <E> : "∃" U2203 # "There exists" sign
+<Multi_key> <F> <F> : "⊥" U22A5 # "Unconditional false" / "Bottom" sign
+<Multi_key> <T> <T> : "⊤" U22A4 # "Unconditional true" / "Top" sign
+<Multi_key> <V> <V> : "✓" U2713 # Check mark
+<Multi_key> <X> <X> : "✗" U2717 # Ballot X
+
+<Multi_key> <equal> <greater> : "⇒" U8658 # Math sign "therefore"
+
+<Multi_key> <l> <asterisk> : "λ" U0955 # Small Greek letter lambda
+<Multi_key> <L> <asterisk> : "Λ" U0955 # Capital Greek letter lambda
